@@ -6,13 +6,12 @@ with a focus on C/C++, Linux and system programming.
 ## Currently
 
 - Working on Webserv — an HTTP server in C++
-- Learning networking and asynchronous I/O
 - Building projects at 42 Heilbronn
 
 ## Technologies
 
 - C / C++
-- Linux / Unix
+- Linux
 - Git / GitHub
 - Makefile
 - TCP / sockets / HTTP
